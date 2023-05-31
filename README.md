@@ -1,7 +1,10 @@
-# README
+# Sistema de cadastro de jogos
 
-Este será o README
+> Status do projeto: Em desenvolvimento
+
+Para rodar esse projeto na sua máquina, por favor digite:
+
 
 ```
-Isso é destaque
+node app.js
 ```
